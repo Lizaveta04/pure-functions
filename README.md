@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/isyh02mb96p4ii0m?svg=true)](https://ci.appveyor.com/project/Lizaveta04/pure-functions)
 # Домашнее задание №1 к лекции «Unit-тестирование»
 
 ## Чистые функции
