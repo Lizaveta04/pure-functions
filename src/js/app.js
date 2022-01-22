@@ -7,3 +7,5 @@ export default function healthIndicator(player) {
   }
   return 'wounded';
 }
+
+console.log('app worked');
